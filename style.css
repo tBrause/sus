@@ -193,4 +193,5 @@ body {
 
 .et_pb_row {
     max-width: 960px !important;
+    margin: auto !important;
 }
