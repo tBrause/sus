@@ -94,6 +94,7 @@ BODY
 
                                                                     LI (class)
                                                                     ###
+                                                                    .menu-item
                                                                     .current-menu-item
                                                                     .menu-item-has-children
 
@@ -143,4 +144,21 @@ body {
 
 .et-menu .menu-item-has-children>a:first-child {
     padding-right: 0;
+}
+
+.menu-item a {
+    display: block;
+    margin: auto;
+    margin-right: auto;
+    margin-right: 28px;
+    padding: 0px;
+    font-size: 25px;
+    line-height: 25px;
+    letter-spacing: 1.1px;
+    font-family: 'GTPressura', sans-serif;
+    font-weight: 400;
+    color: #000;
+    text-decoration: none;
+    white-space: nowrap;
+    text-transform: uppercase;
 }
