@@ -106,50 +106,6 @@ BODY
 
 */
 
-@font-face {
-    font-family: 'GTPressura';
-    src: url('wp-content/uploads/et-fonts/GT-Pressura-Regular.eot#') format('eot'), url('wp-content/uploads/et-fonts/GT-Pressura-Regular.woff') format('woff'), url('wp-content/uploads/et-fonts/GT-Pressura-Regular.ttf') format('truetype');
-}
-
-/* libraries/PT-Serif-regular - latin */
-@font-face {
-    font-family: 'PT Serif';
-    font-style: normal;
-    font-weight: 400;
-    src: url('wp-content/uploads/et-fonts/pt-serif-v12-latin-regular.eot');
-    /* IE9 Compat Modes */
-    src: local(''),
-        url('wp-content/uploads/et-fonts/pt-serif-v12-latin-regular.eot?#iefix') format('embedded-opentype'),
-        /* IE6-IE8 */
-        url('wp-content/uploads/et-fonts/pt-serif-v12-latin-regular.woff2') format('woff2'),
-        /* Super Modern Browsers */
-        url('wp-content/uploads/et-fonts/pt-serif-v12-latin-regular.woff') format('woff'),
-        /* Modern Browsers */
-        url('wp-content/uploads/et-fonts/pt-serif-v12-latin-regular.ttf') format('truetype'),
-        /* Safari, Android, iOS */
-        url('wp-content/uploads/et-fonts/pt-serif-v12-latin-regular.svg#PTSerif') format('svg');
-    /* Legacy iOS */
-}
-
-/* libraries/PT-Serif-700 - latin */
-@font-face {
-    font-family: 'PT Serif';
-    font-style: normal;
-    font-weight: 700;
-    src: url('wp-content/uploads/et-fonts/pt-serif-v12-latin-700.eot');
-    /* IE9 Compat Modes */
-    src: local(''),
-        url('wp-content/uploads/et-fonts/pt-serif-v12-latin-700.eot?#iefix') format('embedded-opentype'),
-        /* IE6-IE8 */
-        url('wp-content/uploads/et-fonts/pt-serif-v12-latin-700.woff2') format('woff2'),
-        /* Super Modern Browsers */
-        url('wp-content/uploads/et-fonts/pt-serif-v12-latin-700.woff') format('woff'),
-        /* Modern Browsers */
-        url('wp-content/uploads/et-fonts/pt-serif-v12-latin-700.ttf') format('truetype'),
-        /* Safari, Android, iOS */
-        url('wp-content/uploads/et-fonts/pt-serif-v12-latin-700.svg#PTSerif') format('svg');
-    /* Legacy iOS */
-}
 
 
 * {
