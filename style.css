@@ -195,3 +195,12 @@ body {
     max-width: 960px !important;
     margin: auto !important;
 }
+
+h2 {
+    font-family: 'GTPressura', sans-serif;
+    font-size: 40px;
+    line-height: 80px;
+    border-bottom: 2px solid #000;
+    text-transform: uppercase !important;
+    letter-spacing: 2.1px !important;
+}
