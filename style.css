@@ -135,6 +135,13 @@ body {
 
 /**
 *
+* HEAD
+*
+*/
+.et-l {}
+
+/**
+*
 * NAVIGATION
 *
 */
@@ -144,6 +151,10 @@ body {
 
 .et-menu .menu-item-has-children>a:first-child {
     padding-right: 0;
+}
+
+.et_pb_menu--without-logo .et_pb_menu__menu>nav>ul>li>a {
+    padding-bottom: 0;
 }
 
 .et_pb_menu_0_tb_header.et_pb_menu ul li a {
@@ -161,4 +172,10 @@ body {
     text-decoration: none;
     white-space: nowrap;
     text-transform: uppercase;
+}
+
+/* */
+
+.et_pb_row {
+    max-width: 960px;
 }
