@@ -1,3 +1,13 @@
 body {
     font-family: 'GT Pressura Regular', Helvetica, Arial, Lucida, sans-serif;
 }
+
+.projekt_absatz {
+    width: 100%;
+    padding-top: 30px;
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+    line-height: 35px;
+    letter-spacing: 0.4px;
+    text-transform: none;
+}
