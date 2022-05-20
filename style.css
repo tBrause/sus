@@ -114,7 +114,7 @@ BODY
 }
 
 body {
-    font-family: 'GT Pressura Regular', Helvetica, Arial, Lucida, sans-serif;
+    font-family: 'GT Pressura', Helvetica, Arial, Lucida, sans-serif;
     font-size: 16px;
     line-height: 22px;
     font-weight: 100;
@@ -209,7 +209,7 @@ h6 {
 }
 
 h2 {
-    font-family: 'GT Pressura Regular', Helvetica, Arial, Lucida, sans-serif;
+    font-family: 'GT Pressura', Helvetica, Arial, Lucida, sans-serif;
     font-size: 40px;
     line-height: 80px;
     border-bottom: 2px solid #000;
