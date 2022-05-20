@@ -140,3 +140,7 @@ body {
 .et-menu .menu-item-has-children>a:first-child::after {
     display: none;
 }
+
+.et-menu .menu-item-has-children>a:first-child {
+    padding-right: 0;
+}
