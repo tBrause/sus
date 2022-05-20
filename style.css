@@ -151,8 +151,8 @@ body {
 .et-l {}
 
 .et_pb_menu_0_tb_header {
-    padding-top: 0;
-    padding-left: 0;
+    padding-top: 0 !important;
+    padding-left: 0 !important;
 }
 
 /**
