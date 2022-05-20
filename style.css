@@ -48,7 +48,7 @@ BODY
                                             .et_pb_column & et_pb_column_4_4 = eine Spalte
                                             .et_pb_column & et_pb_column_1_2 = zwei Spalten
                                             .et_pb_column & et_pb_column_1_3 = drei Spalten
-                                            .et_pb_column & et_pb_column_1_4 0 vier Spalten
+                                            .et_pb_column & et_pb_column_1_4 = vier Spalten
                                             .et_pb_column & et_pb_column_1_5 = fünf Spalten
                                             ...
                                             # unwichtig
@@ -58,16 +58,49 @@ BODY
                                                 ### SPALTE !!! .et_pb_module
                                                 .et_pb_module & et_pb_text & et_pb_text_0 &  et_pb_text_align_left & et_pb_bg_layout_light
                                                 .et_pb_module & et_pb_image & et_pb_image_0
+                                                .et_pb_module & et_pb_menu et_pb_menu_0_tb_header et_pb_bg_layout_light  et_pb_text_align_left et_dropdown_animation_fade et_pb_menu--without-logo et_pb_menu--style-left_aligned
 
                                                     DIV (class)
                                                     ### Type Text
                                                     .et_pb_text_inner
                                                     ### Type Image
                                                     .et_pb_image
+                                                    ### Type Menü
+                                                    .et_pb_menu
 
                                                     SPAN (class)
                                                     ### um IMAGE-Tag
                                                     .et_pb_image_wrap
+                                                    
+                                                    DIV (class)
+                                                    ###
+                                                    .et_pb_menu_inner_container clearfix
+
+                                                        DIV (class) 
+                                                        ### 
+                                                        .et_pb_menu__wrap
+
+                                                            DIV (class)
+                                                            ###
+                                                            .et_pb_menu__menu
+
+                                                            NAV (class)
+                                                            ### 
+                                                            .et-menu-nav
+
+                                                                UL (id & class)
+                                                                ###
+                                                                #menu-menue & .et-menu nav
+
+                                                                    LI (class)
+                                                                    ###
+                                                                    .current-menu-item
+                                                                    .menu-item-has-children
+
+                                                                    ### optional
+                                                                    .home menu-item-59
+                                                                    .et_pb_menu_page_id-home menu-item menu-item-type-post_type menu-item-object-page menu-item-home
+
 
 
 */
@@ -97,4 +130,13 @@ body {
     line-height: 35px;
     letter-spacing: 0.4px;
     text-transform: none;
+}
+
+/**
+*
+* NAVIGATION
+*
+*/
+.et-menu .menu-item-has-children>a:first-child::after {
+    display: none;
 }
