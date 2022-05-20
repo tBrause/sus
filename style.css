@@ -116,18 +116,18 @@ BODY
     font-family: 'PT Serif';
     font-style: normal;
     font-weight: 400;
-    src: url('/libraries/PT-Serif/pt-serif-v12-latin-regular.eot');
+    src: url('uploads/et-fonts/pt-serif-v12-latin-regular.eot');
     /* IE9 Compat Modes */
     src: local(''),
-        url('/libraries/PT-Serif/pt-serif-v12-latin-regular.eot?#iefix') format('embedded-opentype'),
+        url('uploads/et-fonts/pt-serif-v12-latin-regular.eot?#iefix') format('embedded-opentype'),
         /* IE6-IE8 */
-        url('/libraries/PT-Serif/pt-serif-v12-latin-regular.woff2') format('woff2'),
+        url('uploads/et-fonts/pt-serif-v12-latin-regular.woff2') format('woff2'),
         /* Super Modern Browsers */
-        url('/libraries/PT-Serif/pt-serif-v12-latin-regular.woff') format('woff'),
+        url('uploads/et-fonts/pt-serif-v12-latin-regular.woff') format('woff'),
         /* Modern Browsers */
-        url('/libraries/PT-Serif/pt-serif-v12-latin-regular.ttf') format('truetype'),
+        url('uploads/et-fonts/pt-serif-v12-latin-regular.ttf') format('truetype'),
         /* Safari, Android, iOS */
-        url('/libraries/PT-Serif/pt-serif-v12-latin-regular.svg#PTSerif') format('svg');
+        url('uploads/et-fonts/pt-serif-v12-latin-regular.svg#PTSerif') format('svg');
     /* Legacy iOS */
 }
 
@@ -136,18 +136,18 @@ BODY
     font-family: 'PT Serif';
     font-style: normal;
     font-weight: 700;
-    src: url('/libraries/PT-Serif/pt-serif-v12-latin-700.eot');
+    src: url('uploads/et-fonts/pt-serif-v12-latin-700.eot');
     /* IE9 Compat Modes */
     src: local(''),
-        url('/libraries/PT-Serif/pt-serif-v12-latin-700.eot?#iefix') format('embedded-opentype'),
+        url('uploads/et-fonts/pt-serif-v12-latin-700.eot?#iefix') format('embedded-opentype'),
         /* IE6-IE8 */
-        url('/libraries/PT-Serif/pt-serif-v12-latin-700.woff2') format('woff2'),
+        url('uploads/et-fonts/pt-serif-v12-latin-700.woff2') format('woff2'),
         /* Super Modern Browsers */
-        url('/libraries/PT-Serif/pt-serif-v12-latin-700.woff') format('woff'),
+        url('uploads/et-fonts/pt-serif-v12-latin-700.woff') format('woff'),
         /* Modern Browsers */
-        url('/libraries/PT-Serif/pt-serif-v12-latin-700.ttf') format('truetype'),
+        url('uploads/et-fonts/pt-serif-v12-latin-700.ttf') format('truetype'),
         /* Safari, Android, iOS */
-        url('/libraries/PT-Serif/pt-serif-v12-latin-700.svg#PTSerif') format('svg');
+        url('uploads/et-fonts/pt-serif-v12-latin-700.svg#PTSerif') format('svg');
     /* Legacy iOS */
 }
 
