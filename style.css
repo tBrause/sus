@@ -125,8 +125,8 @@ body {
 }
 
 
-.projekt_absatz,
-.et_pb_text_inner p {
+.et_pb_column_1_2>.projekt_absatz,
+.et_pb_column_1_2>.et_pb_text_inner p {
     width: 100%;
     padding-top: 20px;
     font-family: 'PT Serif', serif;
