@@ -265,7 +265,7 @@ body {
 .sub-menu {
     padding: 20px 20px 14px 20px;
     min-width: 200px;
-    width: auto;
+    width: auto !important;
 }
 
 .et_pb_menu_0_tb_header.et_pb_menu .nav li ul.sub-menu a {
