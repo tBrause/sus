@@ -124,16 +124,18 @@ body {
     text-rendering: optimizeLegibility;
 }
 
-
-.et_pb_column_1_2>.projekt_absatz,
-.et_pb_column_1_2>.et_pb_text_inner p {
-    width: 100%;
-    padding-top: 20px;
+.et_pb_text_inner p {
     font-family: 'PT Serif', serif;
     font-size: 20px;
     line-height: 35px;
     letter-spacing: 0.4px;
     text-transform: none;
+}
+
+.et_pb_column_1_2>.projekt_absatz,
+.et_pb_column_1_2>.et_pb_text_inner p {
+    width: 100%;
+    padding-top: 20px;
 }
 
 /**
