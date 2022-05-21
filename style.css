@@ -162,12 +162,12 @@ body {
     width: auto;
 }
 
-.et_pb_column_1 {
+.et_pb_column_1_2>.et_pb_column_1 {
     width: 465px !important;
     margin-right: 31px !important;
 }
 
-.et_pb_column_2 {
+.et_pb_column_1_2>.et_pb_column_2 {
     margin-top: 10px !important;
     margin-left: 30px !important;
     width: 328px !important;
