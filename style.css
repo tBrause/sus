@@ -210,7 +210,8 @@ h6 {
 }
 
 h2 {
-    _font-family: 'GT Pressura', Helvetica, Arial, Lucida, sans-serif;
+    font-family: 'GTPressura', sans-serif;
+    width: 100%;
     font-size: 40px;
     line-height: 80px;
     border-bottom: 2px solid #000;
