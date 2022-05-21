@@ -264,9 +264,9 @@ body {
 
 .sub-menu {
     padding: 20px 20px 14px 20px;
-    min-width: 200px;
+    min-width: 300px;
     width: 100% !important;
-    display: block;
+    display: inline-block;
 }
 
 .et_pb_menu .et-menu-nav>ul ul {
