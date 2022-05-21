@@ -266,12 +266,13 @@ body {
     padding: 20px 20px 14px 20px;
     min-width: 200px;
     width: 100% !important;
+    display: inline-block;
 }
 
 .et_pb_menu .et-menu-nav>ul ul {
     padding: 0;
     text-align: left;
-    display: inline-block;
+
 }
 
 .et_pb_menu_0_tb_header.et_pb_menu .nav li ul.sub-menu a {
