@@ -266,7 +266,7 @@ body {
     padding: 20px 20px 14px 20px;
     min-width: 200px;
     width: 100% !important;
-    display: inline-block;
+    display: block;
 }
 
 .et_pb_menu .et-menu-nav>ul ul {
