@@ -144,6 +144,15 @@ body {
 *
 */
 
+
+
+/**
+*
+* REIHEN
+*
+*/
+
+
 .et_pb_row {
     margin: auto;
     margin: 0px 5% 0px 5%;
@@ -159,6 +168,22 @@ body {
     padding-top: 0 !important;
     padding-left: 0 !important;
 }
+
+/**
+*
+* eine Text-Spalte
+*
+*/
+.et_pb_column_4_4 {
+    width: auto;
+}
+
+
+/**
+*
+* zwei Spalten
+*
+*/
 
 .et_pb_column_1_2 {
     width: auto;
