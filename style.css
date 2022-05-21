@@ -268,6 +268,11 @@ body {
     width: auto !important;
 }
 
+.et_pb_menu .et-menu-nav>ul ul {
+    padding: 0;
+    text-align: left;
+}
+
 .et_pb_menu_0_tb_header.et_pb_menu .nav li ul.sub-menu a {
     display: block;
     margin: auto;
