@@ -178,6 +178,11 @@ body {
     width: auto;
 }
 
+.et_pb_column_4_4 .et_pb_text_inner {
+    width: 960px;
+}
+
+
 
 /**
 *
