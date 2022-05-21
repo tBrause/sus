@@ -205,6 +205,10 @@ body {
     width: 328px !important;
 }
 
+.overview p {
+    margin-bottom: 12px;
+}
+
 .et_pb_module {
     margin-bottom: 0 !important;
 }
