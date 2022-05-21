@@ -262,6 +262,25 @@ body {
     border-bottom: 2px solid #000;
 }
 
+.sub-menu {
+    padding: 20px 20px 14px 20px;
+}
+
+.et_pb_menu_0_tb_header.et_pb_menu .nav li ul.sub-menu a {
+    display: block;
+    margin: auto;
+    margin-right: 0px;
+    padding: 0px 10px 0px 10px;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 1px;
+    font-family: 'GTPressura', sans-serif;
+    font-weight: 400;
+    color: #000;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
 h1,
 h2,
 h3,
