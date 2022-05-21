@@ -124,7 +124,9 @@ body {
     text-rendering: optimizeLegibility;
 }
 
-.projekt_absatz {
+
+.projekt_absatz,
+.et_pb_text_inner p {
     width: 100%;
     padding-top: 30px;
     font-family: 'PT Serif', serif;
