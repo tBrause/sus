@@ -156,6 +156,10 @@ body {
     padding-left: 0 !important;
 }
 
+.et_pb_column_1_2 {
+    width: auto;
+}
+
 .et_pb_column_1 {
     width: 465px !important;
     margin-right: 31px !important;
