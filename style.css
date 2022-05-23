@@ -286,6 +286,7 @@ div.nav_images h3 {
 * NAVIGATION
 *
 */
+/*
 .et-menu .menu-item-has-children>a:first-child::after {
     display: none;
 }
@@ -313,7 +314,7 @@ div.nav_images h3 {
     text-decoration: none;
     white-space: nowrap;
     text-transform: uppercase;
-}
+}*/
 
 /* */
 
@@ -323,7 +324,7 @@ div.nav_images h3 {
     display: inline-block;
 }
 
-/*
+
 #main-content a {
     font-family: 'GTPressura', sans-serif;
     text-transform: uppercase;
@@ -334,6 +335,7 @@ div.nav_images h3 {
     border-bottom: 2px solid #000;
 }
 
+/*
 ul.sub-menu {
     padding: 20px 20px 14px 20px;
     min-width: 300px;
