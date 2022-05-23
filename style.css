@@ -246,8 +246,10 @@ h3 {
 
 .overview p {
     font-family: 'PT Serif', serif;
-
-    margin-bottom: 12px;
+    font-size: 20px;
+    line-height: 35px;
+    letter-spacing: 0.4px;
+    text-transform: none;
 }
 
 .et_pb_module {
