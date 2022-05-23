@@ -226,6 +226,7 @@ h3 {
 /**
 *
 * zwei Spalten
+* PROJEKTÜBERSICHT
 *
 */
 
@@ -255,6 +256,15 @@ h3 {
 .et_pb_image a {
     line-height: 0;
     border: #fff solid 0px;
+}
+
+.et_pb_text_inner a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 17px;
+    line-height: auto;
+    letter-spacing: 2.1px;
+    border-bottom: 2px solid #000;
 }
 
 .et_pb_module {
