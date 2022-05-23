@@ -215,6 +215,7 @@ body {
 
 .buero-adressen p {
     font-family: 'GTPressura', Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
 }
 
 
