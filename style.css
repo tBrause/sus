@@ -213,11 +213,14 @@ body {
     margin-bottom: 0 !important;
 }
 
-.buero-adressen p {
+div.buero-adressen p {
     font-family: 'GTPressura', Arial, Helvetica, sans-serif;
     text-transform: uppercase;
 }
 
+div.nav_images .et_pb_gutters3 .et_pb_column_1_3 {
+    width: 300px;
+}
 
 /**
 *
