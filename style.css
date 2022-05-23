@@ -218,7 +218,7 @@ div.buero-adressen p {
     text-transform: uppercase;
 }
 
-div.nav_images .et_pb_column_1_3 {
+div.nav_images>.et_pb_column_1_3 {
     width: 300px;
 }
 
