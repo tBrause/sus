@@ -245,6 +245,8 @@ h3 {
 }
 
 .overview p {
+    font-family: 'PT Serif', serif;
+
     margin-bottom: 12px;
 }
 
