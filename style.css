@@ -252,6 +252,11 @@ h3 {
     text-transform: none;
 }
 
+.et_pb_image a {
+    line-height: 0;
+    border: #fff solid 0px;
+}
+
 .et_pb_module {
     margin-bottom: 0 !important;
 }
