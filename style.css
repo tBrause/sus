@@ -114,8 +114,13 @@ BODY
     box-sizing: border-box;
 }
 
+:root {
+    --font-gtpressura: "'GTPressura', Arial, Helvetica, sans-serif'";
+    --font-ptserif: "'PT Serif', Arial, Helvetica, sans-serif'";
+}
+
 body {
-    font-family: 'GTPressura', Arial, Helvetica, sans-serif;
+    font-family: var(--font-gtpressura);
     font-size: 16px;
     line-height: 22px;
     font-weight: 100;
@@ -125,7 +130,7 @@ body {
 }
 
 .et_pb_text_inner p {
-    font-family: 'PT Serif', serif;
+    _font-family: 'PT Serif', serif;
     font-size: 20px;
     line-height: 35px;
     _letter-spacing: 0.4px;
@@ -159,7 +164,7 @@ h6 {
 }
 
 h2 {
-    font-family: 'GTPressura', sans-serif;
+    font-family: var(--font-gtpressura);
     _width: 100%;
     font-size: 40px;
     line-height: 80px;
@@ -213,7 +218,7 @@ h3 {
 }
 
 .ein_text p {
-    font-family: 'PT Serif', serif;
+    font-family: var(--font-ptserif);
     font-size: 20px;
     line-height: 35px;
     word-spacing: 2px;
@@ -252,7 +257,7 @@ h3 {
 }
 
 div.buero-adressen p {
-    font-family: 'GTPressura', Arial, Helvetica, sans-serif;
+    _font-family: 'GTPressura', Arial, Helvetica, sans-serif;
     text-transform: uppercase;
 }
 
@@ -266,7 +271,7 @@ div.nav_images>.et_pb_column {
 
 div.nav_images h3 {
     width: 280px;
-    font-family: 'GTPressura', sans-serif;
+    _font-family: 'GTPressura', sans-serif;
     text-transform: uppercase;
     color: #000;
     font-size: 20px;
