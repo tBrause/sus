@@ -222,6 +222,11 @@ h3 {
     padding-bottom: 0;
 }
 
+p:not(.has-background):last-of-type {
+    padding-bottom: 0;
+    margin-bottom: 12px;
+}
+
 
 /**
 *
