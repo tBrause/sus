@@ -116,7 +116,7 @@ BODY
 
 :root {
     --font-gtpressura: "'GTPressura', Arial, Helvetica, sans-serif'";
-    --font-ptserif: "'PT Serif', Arial, Helvetica, sans-serif'";
+    --font-ptserif: "'PT Serif', Arial, Helvetica, sans-serif";
 }
 
 body {
@@ -164,7 +164,6 @@ h6 {
 }
 
 h2 {
-    font-family: var(--font-gtpressura);
     _width: 100%;
     font-size: 40px;
     line-height: 80px;
