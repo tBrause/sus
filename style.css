@@ -185,8 +185,6 @@ h3 {
 * REIHEN
 *
 */
-
-
 .et_pb_row {
     margin: auto;
     margin: 0px 5% 0px 5%;
@@ -195,8 +193,6 @@ h3 {
     max-width: 1100px;
     _height: 185px;
 }
-
-.et-l {}
 
 .et_pb_menu_0_tb_header {
     padding-top: 0 !important;
@@ -327,6 +323,7 @@ div.nav_images h3 {
     display: inline-block;
 }
 
+/*
 #main-content a {
     font-family: 'GTPressura', sans-serif;
     text-transform: uppercase;
@@ -372,3 +369,4 @@ ul.sub-menu {
     text-decoration: none;
     white-space: nowrap;
 }
+*/
