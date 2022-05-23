@@ -222,6 +222,11 @@ div.nav_images>.et_pb_column_1_3 {
     width: 300px;
 }
 
+div.nav_images>.et_pb_column {
+    margin-right: 30px;
+}
+
+
 /**
 *
 * NAVIGATION
