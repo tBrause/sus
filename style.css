@@ -264,11 +264,12 @@ div.nav_images h3 {
     width: 280px;
     font-family: 'GTPressura', sans-serif;
     text-transform: uppercase;
+    color: #000;
     font-size: 20px;
     line-height: 25px;
     font-weight: 300;
     letter-spacing: 1px;
-    margin-top: 6px;
+    margin-top: 5px;
     margin-bottom: -5px;
     _background-color: #000;
 }
