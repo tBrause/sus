@@ -260,7 +260,7 @@ div.nav_images>.et_pb_column {
     margin-right: 30px;
 }
 
-div.nav_images>.et_pb_text_inner h3 {
+div.nav_images>.et_pb_text_inner>h3 {
     width: 280px;
     font-family: 'GTPressura', sans-serif;
     text-transform: uppercase;
