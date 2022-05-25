@@ -158,7 +158,7 @@ h4,
 h5,
 h6 {
     color: #333;
-    padding-bottom: 10px;
+    _padding-bottom: 10px;
     line-height: 1em;
     font-weight: 500;
 }
