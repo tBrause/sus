@@ -321,6 +321,12 @@ div.nav_images h3 {
     line-height: 35px;
 }
 
+.projekt_leistungen>.et_pb_column_1 {
+    width: 465px !important;
+    margin-right: 31px !important;
+}
+
+
 
 
 /**
