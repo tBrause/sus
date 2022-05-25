@@ -304,7 +304,16 @@ div.nav_images h3 {
     _background-color: #000;
 }
 
-
+.projekt_leistungen h5 {
+    font-family: 'GTPressura', sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 17px;
+    line-height: auto;
+    letter-spacing: 2.1px;
+    color: #a4af9f;
+    font-weight: 300;
+}
 
 
 /**
