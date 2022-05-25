@@ -157,8 +157,8 @@ h3,
 h4,
 h5,
 h6 {
-    color: #333;
-    _padding-bottom: 10px;
+    color: #000;
+    padding-bottom: 0px;
     line-height: 1em;
     font-weight: 500;
 }
