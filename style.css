@@ -304,6 +304,13 @@ div.nav_images h3 {
     _background-color: #000;
 }
 
+/**
+*
+* zwei Spalten
+* PROJEKT LEISTUNGEN
+*
+*/
+
 .projekt_leistungen h5 {
     font-family: 'GTPressura', sans-serif;
     text-transform: uppercase;
@@ -328,7 +335,7 @@ div.nav_images h3 {
 }
 
 .projekt_leistungen>.et_pb_column {
-    width: 465px !important;
+    _width: 465px !important;
 }
 
 
