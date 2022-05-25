@@ -322,12 +322,12 @@ div.nav_images h3 {
     line-height: 35px;
 }
 
-.projekt_leistungen>.et_pb_column_1 {
+.projekt_leistungen>.et_pb_column {
     width: 465px !important;
     margin-right: 30px !important;
 }
 
-.projekt_leistungen>.et_pb_column_2 {
+.projekt_leistungen>.et_pb_column {
     width: 465px !important;
 }
 
