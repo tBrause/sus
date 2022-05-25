@@ -311,6 +311,9 @@ div.nav_images h3 {
 * PROJEKT LEISTUNGEN
 *
 */
+.projekt_leistungen {
+    padding-bottom: 30px;
+}
 
 .projekt_leistungen h5 {
     font-family: 'GTPressura', sans-serif;
