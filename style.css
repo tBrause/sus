@@ -313,6 +313,7 @@ div.nav_images h3 {
     letter-spacing: 2.1px;
     color: #a4af9f;
     font-weight: 300;
+    padding-bottom: 3px;
 }
 
 .projekt_leistungen p {
@@ -323,8 +324,13 @@ div.nav_images h3 {
 
 .projekt_leistungen>.et_pb_column_1 {
     width: 465px !important;
-    margin-right: 31px !important;
+    margin-right: 30px !important;
 }
+
+.projekt_leistungen>.et_pb_column_2 {
+    width: 465px !important;
+}
+
 
 
 
