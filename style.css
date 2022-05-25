@@ -193,7 +193,7 @@ h3 {
     min-width: 960px;
     max-width: 1100px;
     _height: 185px;
-    padding: 0 !important;
+    _padding: 0 !important;
 }
 
 .et_pb_menu_0_tb_header {
