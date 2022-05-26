@@ -391,6 +391,18 @@ div.nav_images h3 {
 
 }
 
+.footer_name {
+    width: 247px !important;
+    margin-right: 30px !important;
+    letter-spacing: 1.5px;
+
+}
+
+.et_pb_gutters3 .et_pb_column_1_4 {
+    width: 20.875%;
+    margin-right: 5.5%;
+}
+
 
 
 /**
