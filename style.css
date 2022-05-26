@@ -357,7 +357,7 @@ div.nav_images h3 {
     background-color: #a5afa0;
     margin-top: 100px;
     height: 143px;
-    padding-top: 57px;
+    padding-top: 57px !important;
 
 }
 
