@@ -131,7 +131,7 @@ body {
 
 .et_pb_section {
     padding: 0 !important;
-    margin: 0 !important;
+    _margin: 0 !important;
 }
 
 .et_pb_row {
