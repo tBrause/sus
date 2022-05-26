@@ -413,7 +413,7 @@ div.nav_images h3 {
 /* */
 
 .et_pb_row {
-    max-width: 960px !important;
+    _max-width: 960px !important;
     margin: auto !important;
     display: inline-block;
 }
