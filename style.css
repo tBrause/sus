@@ -358,15 +358,18 @@ div.nav_images h3 {
     margin-top: 100px;
     height: 143px;
     padding-top: 57px;
-    font-size: 15px;
-    line-height: 20px;
-    font-weight: 400;
-
 
 }
 
 .footer_absatz {
     padding: 0;
+}
+
+.footer_absatz p {
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 400;
+
 }
 
 
