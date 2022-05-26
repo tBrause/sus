@@ -361,6 +361,12 @@ div.nav_images h3 {
     font-size: 15px;
     line-height: 20px;
     font-weight: 400;
+
+
+}
+
+.footer_absatz>.et_pb_section {
+    padding: 0;
 }
 
 
