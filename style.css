@@ -378,7 +378,7 @@ div.nav_images h3 {
     letter-spacing: 1.5px;
 }
 
-.footer_absatz et_pb_column {
+.footer_absatz>div>div {
     margin-bottom: 0 !important;
 }
 
