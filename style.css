@@ -365,7 +365,8 @@ div.nav_images h3 {
     padding: 0;
 }
 
-.footer_absatz p {
+.footer_absatz p,
+.footer_absatz a {
     font-size: 15px;
     line-height: 20px;
     font-weight: 400;
