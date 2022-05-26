@@ -440,6 +440,7 @@ div.nav_images h3 {
 
 .nav li ul {
     padding: 20px 20px 14px 20px !important;
+    margin-left: -16px;
     min-width: 240px;
     width: auto;
 }
