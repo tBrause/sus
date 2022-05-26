@@ -378,6 +378,10 @@ div.nav_images h3 {
     letter-spacing: 1.5px;
 }
 
+.footer_absatz>p:not(.has-background):last-of-type {
+    margin-bottom: 0 !important;
+}
+
 
 
 /**
