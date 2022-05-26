@@ -437,6 +437,13 @@ div.nav_images h3 {
 * NAVIGATION
 *
 */
+
+.nav li ul {
+    padding: 20px 20px 14px 20px;
+    min-width: 200px;
+    width: auto;
+}
+
 /*
 .et-menu .menu-item-has-children>a:first-child::after {
     display: none;
