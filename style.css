@@ -129,6 +129,10 @@ body {
     text-rendering: optimizeLegibility;
 }
 
+.et_pb_section {
+    padding: 0;
+}
+
 .et_pb_text_inner p {
     _font-family: 'PT Serif', serif;
     font-size: 20px;
