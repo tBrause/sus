@@ -452,6 +452,11 @@ ul.sub-menu {
 
 }
 */
+
+.et-menu .menu-item-has-children>a:first-child::after {
+    display: none;
+}
+
 .et_pb_menu_0_tb_header.et_pb_menu .nav li ul.sub-menu a {
     display: block;
     margin: auto;
