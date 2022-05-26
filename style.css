@@ -385,6 +385,11 @@ div.nav_images h3 {
     font-weight: 400;
 }
 
+.footer_absatz a {
+    text-transform: none;
+}
+
+
 /*
 .footer_absatz>div>div {
     width: 247px !important;
