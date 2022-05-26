@@ -372,7 +372,7 @@ div.nav_images h3 {
     font-weight: 400;
 }
 
-.footer_absatz>div {
+.footer_absatz>div>div {
     width: 247px !important;
     margin-right: 30px !important;
     letter-spacing: 1.5px;
