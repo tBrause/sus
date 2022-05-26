@@ -197,7 +197,7 @@ h3 {
     min-width: 960px;
     max-width: 1100px;
     _height: 185px;
-    padding: 0 0 30px 0 !important;
+    _padding: 0 0 30px 0 !important;
 }
 
 .et_pb_menu_0_tb_header {
@@ -357,7 +357,6 @@ div.nav_images h3 {
 *
 */
 .footer_absatz {
-    display: inline-block;
     background-color: #a5afa0;
     margin-top: 100px;
     height: 143px;
