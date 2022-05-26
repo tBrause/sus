@@ -470,4 +470,9 @@ ul.sub-menu {
     color: #000;
     text-decoration: none;
     white-space: nowrap;
+    background-color: #fff;
+}
+
+.et_pb_menu_0_tb_header.et_pb_menu .nav li ul.sub-menu a:hover {
+    background-color: #fff;
 }
